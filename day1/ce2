@@ -1,4 +1,3 @@
-
 var alertMsg = () => {
     let myobject = {name:"Madras"};
     let newObject = myobject;
